@@ -1,0 +1,3 @@
+[submodule "src/tiny-cec"]
+	path = src/tiny-cec
+	url = git@github.com:aidenfoxx/tiny-cec.git
